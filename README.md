@@ -10,7 +10,7 @@ O script recebe uma senha como argumento e verifica se ela atende aos seguintes 
 
 | Critério | Requisito |
 |---|---|
-| ✅ Comprimento | Mínimo de 10 caracteres |
+| ✅ Comprimento | Mínimo de 10 caracteres |README
 | ✅ Símbolos | Deve conter `@` ou `$` |
 | ✅ Misto | Deve ter letras maiúsculas e minúsculas |
 
@@ -57,9 +57,3 @@ Este projeto pratica:
 - Leitura de argumentos via linha de comando com `process.argv`
 - Manipulação de strings com `.length`, `.includes()`, `.toLowerCase()` e `.toUpperCase()`
 - Estruturas condicionais com `if / else if`
-
----
-
-## 👤 Autor
-
-Feito com 💙 como parte do meu portfólio de estudos em JavaScript.
